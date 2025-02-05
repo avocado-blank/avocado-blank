@@ -1,5 +1,5 @@
 # 💫 About Me:
-React Developer
+Web Developer
 
 
 # 💻 Tech Stack:
